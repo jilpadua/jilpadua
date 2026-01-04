@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Jilmer Padua  
-**Backend Developer • BSIT – Web Development Graduate • Aspiring Full Stack Engineer**
+**Junior Backend Developer • JavaScript, Node.js, Express.js, SQL & MongoDB**
 
 I'm a backend-focused developer who enjoys building APIs, working with databases, and understanding how systems work behind the scenes.  
 I primarily use Node.js and JavaScript for backend development, and I'm constantly improving my skills in server logic, authentication, and system design.
